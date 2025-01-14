@@ -1,4 +1,3 @@
-<span style="color:+5V"
 
 # GIS in Space!!!
 
@@ -76,4 +75,3 @@ The THEMIS was a camera placed by NASA on the Odyssey to help map the surface of
 3. GIS at NASA
 4. ESRI
 
-</span>
